@@ -9,6 +9,6 @@ public class SpringBootAjaxApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(SpringBootAjaxApplication.class, args);
-		System.out.println("111111sda1122");
+		System.out.println("1111333311sda1122");
 	}
 }

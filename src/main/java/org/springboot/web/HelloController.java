@@ -36,7 +36,7 @@ public class HelloController {
         for (int i = 0; i < 10; i++) {
             User user = new User();
             user.setId(i + 1);
-            user.setName("springboot" + i);
+            user.setName("springboot1" + i);
             user.setSex("male");
             user.setAge(i + 1);
             user.setRole("developer");
