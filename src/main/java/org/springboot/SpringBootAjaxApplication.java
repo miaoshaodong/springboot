@@ -10,5 +10,6 @@ public class SpringBootAjaxApplication {
 
 		SpringApplication.run(SpringBootAjaxApplication.class, args);
 		System.out.println("1111333311sda1122");
+		System.out.println("hhhhhhhhhhhh");
 	}
 }
