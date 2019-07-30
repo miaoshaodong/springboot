@@ -17,7 +17,7 @@ public class HelloController {
     @RequestMapping(value = "/index", method = RequestMethod.GET)
     public String index(ModelMap modelMap) {
         modelMap.put("msg", "SpringBoot Ajax 示例");
-        modelMap.put("msg", "111SpringBoot Ajax 示例");
+        modelMap.put("msg", "1aasd11SpringBoot Ajax 示例");
         return "index";
     }
 
